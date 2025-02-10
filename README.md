@@ -11,7 +11,6 @@ housing_price_prediction/
 │   ├── 2_data_preprocessing.ipynb # Feature engineering and data preparation
 │   └── 3_model_development.ipynb  # Model training and evaluation
 ├── preprocessed_data/             # Stores processed datasets
-├── report/                        # Contains final project report
 └── README.md                      # This file
 
 ## Getting Started
@@ -33,11 +32,12 @@ pip install -r requirements.txt
 
 Running the Project
 
-Start with 1_data_exploration.ipynb to understand the dataset
-Run 2_data_preprocessing.ipynb to prepare data for modeling
-Execute 3_model_development.ipynb to train and evaluate models
+Start with data_exploration.ipynb to understand the dataset
+Run data_preprocessing.ipynb to prepare data for modeling
+Execute model_development.ipynb to train and evaluate models
 
-Notebooks Description
+### Notebooks Description
+
 1. Data Exploration
 
 Initial data analysis
@@ -86,10 +86,13 @@ Root Mean Square Error (RMSE)
 Mean Absolute Error (MAE)
 R-squared (R²)
 
-Author
-[Your Name]
-[Your Student ID]
-Acknowledgments
+## Author
+Jishnu Harinandansingh
+852768738
+
+## Acknowledgments
 
 Open Universiteit Machine Learning Course
-Dataset creator: [Creator's Name]
+Dataset creator: Bryan Lusse
+https://www.kaggle.com/datasets/bryan2k19/dutch-house-prices-dataset/data
+https://github.com/bryanlusse/HousePrices__Webscraper?tab=readme-ov-file#chart_with_upwards_trend-model
