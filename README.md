@@ -3,6 +3,7 @@
 This project implements machine learning models to predict house prices in the Netherlands using property characteristics. It follows a complete data science approach from data exploration to model evaluation.
 
 ## Project Structure
+
 housing_price_prediction/
 ├── data/
 │   └── raw_data.csv               # Original Dutch housing dataset
