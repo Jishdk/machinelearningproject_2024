@@ -61,7 +61,7 @@ Hyperparameter tuning
 Model evaluation
 Performance comparison
 
-Dataset
+## Dataset
 The dataset contains information about Dutch houses including:
 
 Living space size
@@ -73,14 +73,16 @@ Energy label
 Price (target variable)
 
 Source: Funda.nl (Dutch real estate website)
-Models Implemented
+https://github.com/bryanlusse/HousePrices__Webscraper?tab=readme-ov-file#chart_with_upwards_trend-model
+
+## Models Implemented
 
 Linear Regression (baseline)
 K-Nearest Neighbors
 Decision Tree
 Random Forest
 
-Results
+## Results
 Model performance is evaluated using:
 
 Root Mean Square Error (RMSE)
